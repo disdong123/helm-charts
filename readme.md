@@ -1,9 +1,10 @@
-# Heapdump Test
+# 
+helm charts 저장소입니다.
 
-### Test
+### Heapdump Test
 ```
 # run
-helm upgrade --install hd-test .
+helm upgrade --install hd-test ./hd-test
 
 
 # change label
